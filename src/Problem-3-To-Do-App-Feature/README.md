@@ -21,6 +21,7 @@ Code
 * Build **TodoList** and **TodoListItem** components
 * Defining **Todo** type
 * Styling components to meet the minimum requirements
+* Components need to be returned in **ToDoAppComponent**
 
 ```jsx
 import { useState } from "react"; 
