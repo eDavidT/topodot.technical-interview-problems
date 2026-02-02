@@ -1,0 +1,34 @@
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.toppane {
+  width: 100%;
+  height: 100px;
+}
+
+.leftpane {
+  width: 33.3%;
+  height: 100vh;
+  border-right: 1px solid black;
+}
+
+.middlepane {
+  width: 33.4%;
+  height: 100vh;
+  border-right: 1px solid black;
+}
+
+.rightpane {
+  width: 33.4%;
+  height: 100vh;
+}
+
+body {
+  margin: 0!important;
+}
+
+.d-flex {
+  display: flex;
+}
