@@ -6,7 +6,7 @@ Requirements:
 * Fetch the data only when the component loads
 * Show a loading indicator
 * Show an error message if the API fails
-* Display the list of user’s usernames.
+* Display the list of usernames.
 
 Initial Setup
 ```jsx
